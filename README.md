@@ -28,3 +28,4 @@ This project is a web automation for testing specific pages from https://www.mon
 #### Results -
 This automation project has been run and the results also are included in Project folder MoneyCorp. Below is the location to the report -
 * MoneyCorp/test-output/SparkReport/Spark1.html
+![alt text](MoneyCorp/test-output/SparkReport/image_2023_10_11T08_49_36_152Z.png)
